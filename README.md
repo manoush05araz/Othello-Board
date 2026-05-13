@@ -1,6 +1,7 @@
 # ♟️ Othello Game (Java)
 A full-featured implementation of the classic Othello (Reversi) board game built in Java with a graphical user interface and a strong emphasis on software architecture and design patterns.
 
+---
 
 # ✨ Features
 Human vs Human and Human vs Computer gameplay
