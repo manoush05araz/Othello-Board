@@ -38,16 +38,18 @@ Separates board traversal and operations from the board structure itself, enabli
 ---
 
 ## 🛠️ Technologies
-Java
-JavaFX
-Object-Oriented Programming (OOP)
-MVC Architecture
-Design Patterns (Strategy, Command, Visitor)
+- Java
+- JavaFX
+- Object-Oriented Programming (OOP)
+- MVC Architecture
+- Design Patterns (Strategy, Command, Visitor)
 
 ---
 
 ## 📌 Notes
 This project was developed as part of a software design course, with a focus on clean architecture, design pattern application, and readable, extensible code rather than minimal implementation.
+
+---
 
 ## 🚀 Getting Started
 Open the project in Eclipse, ensure Java 21 is configured, and run the main controller class to launch the GUI.
