@@ -17,6 +17,7 @@ A full-featured implementation of the classic Othello (Reversi) board game built
 The project follows the Model–View–Controller (MVC) architecture to ensure clean separation of concerns:
 
 - Model 
+
 Core game logic, board state, move design, and validation rules.
 - View
 JavaFX-based graphical user interface for rendering the board and handling user interaction.
