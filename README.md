@@ -28,11 +28,11 @@ This structure improves maintainability, testability, and extensibility.
 --- 
 
 ## 🧩 Design Patterns Used
-- Strategy Pattern  
+- **Strategy Pattern**  
 Encapsulates different player behaviors (Human, Random, Greedy), allowing strategies to be swapped dynamically.
-- Command Pattern  
+- **Command Pattern**  
 Implements undo/redo functionality by storing move commands and maintaining a history stack.
-- Visitor Pattern  
+- **Visitor Pattern**
 Separates board traversal and operations from the board structure itself, enabling cleaner extensions.
 
 ---
