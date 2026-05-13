@@ -4,7 +4,7 @@ A full-featured implementation of the classic Othello (Reversi) board game built
 ---
 
 ## ✨ Features
-Human vs Human and Human vs Computer gameplay
+- Human vs Human and Human vs Computer gameplay
 Interactive GUI-based board
 Configurable player strategies
 Undo and redo moves with full move history
