@@ -18,7 +18,7 @@ The project follows the Model–View–Controller (MVC) architecture to ensure c
 
 - **Model**  
   Core game logic, board state, move design, and validation rules.
-- **View**
+- **View**   
 JavaFX-based graphical user interface for rendering the board and handling user interaction.
 - **Controller**
 Coordinates game flow, user actions, and communication between the model and view.
